@@ -8,6 +8,11 @@ img{
 h1{
   font-family: 'Anton', sans-serif;
 }
+
+h1:hover {
+    color: red;
+    transition: 10s;
+}
 p{
   font-family: 'Lobster', cursive;
 }
