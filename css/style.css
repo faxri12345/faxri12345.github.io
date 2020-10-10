@@ -1,0 +1,13 @@
+body{
+  background: black;
+  color: white;
+}
+img{
+ width:200px;
+}
+h1{
+  font-family: 'Anton', sans-serif;
+}
+p{
+  font-family: 'Lobster', cursive;
+}
